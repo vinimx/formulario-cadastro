@@ -1,0 +1,19 @@
+@import url("header.css");
+@import url("banner.css");
+@import url("formulario.css");
+
+:root {
+    --cor-de-fundo: #25316D;
+    --lilas: #BE8ABF;
+    --azul-claro: #97D2EC;
+    --azul: #5F6F94;
+    --branco: #FFFDF9;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+    font-family: 'Ubuntu', sans-serif;
+}
